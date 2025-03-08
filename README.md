@@ -5,23 +5,32 @@
 </div>
 
 <!--首圖-->
-<div style="text-align: center;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="300" width="700" alt="GIF" 
-       src="https://raw.githubusercontent.com/minianns/minianns/refs/heads/main/images/Minions-Excited.webp" 
-       style="max-width: 100%; display: block; margin-left: 500px;">
+<div align="center">
+  <img height="450" width="1000" alt="GIF" align="center"
+       src="https://raw.githubusercontent.com/minianns/minianns/refs/heads/main/images/Minions-Excited.webp">
 </div>
 </br>
 </br>
 </br>
 
 <!-- About me-->
-<div>
-  <h1 class = "heading-element">About me 💬
-  </h1>
-  <h3> 。Data Science Learning & Artificial Intelligence Enthusiast from Taiwan.
-  </h3>
-</div>
+# About me 💬
+### With 5 years of experience in Marketing & currently Data Science Learning from Taiwan.
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/minianns/minianns/blob/main/images/Agnes.gif">
+
+### Learning :
+- ✨ Data Science
+
+### Hobbies :
+- ✨ Scenery Enjoying
+- ✨ Playing Piano
+- ✨ League of Legends Addict
+- ✨ Watching Anime
+</br>
+</br>
+</br>
+
+# Languages & Tools :
 
 
 <!--
