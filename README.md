@@ -32,18 +32,17 @@
 
 # Languages & Tools :
 
+<p align="left">
 
-<!--
-**minianns/minianns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-01.png" alt="python" width="120" hight="50">
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-02.png" alt="bash"  width="120" hight="50">
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-03.png" alt="git" width="120" hight="50">
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-07.png" alt="GitHub" width="120" hight="50">
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-04.png" alt="VS code" width="240" hight="50">
+</br>
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-05.png" alt="HTML5" width="120" hight="50">
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-06.png" alt="CSS3" width="120" hight="50">
+</br>
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-08.png" alt="illustrator" width="180" hight="50">
+<img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-12.png" alt="Phototshop" width="180" hight="50">
+</p>
