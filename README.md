@@ -1,6 +1,5 @@
-<div>
-  
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/8a/98/ea/8a98ea5c46366306d7aa640e56353d65.gif" style="max-width: 100%; display: inline-block">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img height="300" width="700" alt="GIF" src="https://raw.githubusercontent.com/minianns/minianns/refs/heads/main/images/Minions-Excited.webp" style="max-width: 100%;">
 </div>
 <div>
   <h1 align = "center", class = "heading-element">Hi, I'm Ann.👋
