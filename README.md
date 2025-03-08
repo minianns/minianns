@@ -1,4 +1,11 @@
-## Hi there 👋
+<div>
+  
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/8a/98/ea/8a98ea5c46366306d7aa640e56353d65.gif">
+</div>
+<div>
+  <h1 align = "center", class = "heading-element">Hi, I'm Ann.👋
+  </h1>
+</div>
 
 <!--
 **minianns/minianns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
