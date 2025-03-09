@@ -16,16 +16,21 @@
 <!-- About me-->
 # About me 💬
 ### With 5 years of experience in Marketing & currently Data Science Learning from Taiwan.
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/minianns/minianns/blob/main/images/Agnes.gif">
+<img hight="550" width="600" alt="GIF" align="right" src="https://github.com/minianns/minianns/blob/main/images/Agnes.gif">
 
 ### Learning :
-- ✨ Data Science
+✨ Data Science</br>
+✨ Marketing Background
 
 ### Hobbies :
-- ✨ Scenery Enjoying
-- ✨ Playing Piano
-- ✨ League of Legends Addict
-- ✨ Watching Anime
+✨ Scenery Enjoying</br>
+✨ Playing Piano</br>
+✨ League of Legends Addict</br>
+✨ Watching Anime
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
