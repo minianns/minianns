@@ -18,15 +18,14 @@
 ### With 5 years of experience in Marketing & currently Data Science Learning from Taiwan.
 <img hight="550" width="600" alt="GIF" align="right" src="https://github.com/minianns/minianns/blob/main/images/Agnes.gif">
 
-### Learning :
-✨ Data Science</br>
-✨ Marketing Background
-
-### Hobbies :
+### Habbies :
 ✨ Scenery Enjoying</br>
 ✨ Playing Piano</br>
 ✨ League of Legends Addict</br>
 ✨ Watching Anime
+
+### Contact me :
+<a href="mailto:minianns48@gmail.com"><img align="top" alt="Gmail" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" /></a>&nbsp;&nbsp;<a href=""><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/minianns48?igsh=MWg0dWhsYmVzdGdmNw%3D%3D&utm_source=qr"><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" /></a>
 </br>
 </br>
 </br>
@@ -51,15 +50,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minianns&langs_count=5&title_color=FFFFFF&text_color=FFD55E&icon_color=FFD55E&bg_color=0C457A&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
 
 </br>
-
-# Contact me 🚀
-Feel free to contact me anytime, or we can just play games together if you’d like!😉.
-
-<a href="mailto:minianns48@gmail.com"><img align="top" alt="Gmail" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" /></a>&nbsp;&nbsp;<a href=""><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/minianns48?igsh=MWg0dWhsYmVzdGdmNw%3D%3D&utm_source=qr"><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" /></a>
-
-</br>
-</br>
-</br>
-
 
 
