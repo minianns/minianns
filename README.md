@@ -6,7 +6,7 @@
 
 <!--首圖-->
 <div align="center">
-  <img height="450" width="1000" alt="GIF" align="center"
+  <img height="300" width="600" alt="GIF" align="center"
        src="https://raw.githubusercontent.com/minianns/minianns/refs/heads/main/images/Minions-Excited.webp">
 </div>
 </br>
@@ -58,29 +58,22 @@
 </p>
 </br>
 
-# Contact me 🚀:
-
-<p>
+# Contact me 🚀: 
 Feel free to contact me anytime, or we can just play games together if you’d like!😉.
-<p>
 
-<a href="mailto:minianns48@gmail.com">
- <img align="left" alt="Gmail" width="40" hight="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minianns&langs_count=5&title_color=FFFFFF&text_color=FFD55E&icon_color=FFD55E&bg_color=0C457A&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"><a href="mailto:minianns48@gmail.com">
+ <img align="top" alt="Gmail" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" />
 </a>
 <a href="">
-  <img align="left" alt="Linkedin" width="40" hight="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" />
+  <img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" />
 </a>
-<a>
 <a href="https://www.instagram.com/minianns48?igsh=MWg0dWhsYmVzdGdmNw%3D%3D&utm_source=qr">
-  <img align="left" alt="Linkedin" width="40" hight="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" />
+  <img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" />
 </a>
+
 </br>
 </br>
 </br>
 
-# Badges 🏷️ :
 
-<p align="left" >  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minianns&langs_count=5&title_color=FFFFFF&text_color=FFD55E&icon_color=FFD55E&bg_color=0C457A&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
-  </p>
- 
+
