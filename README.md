@@ -42,12 +42,15 @@
 </br>
   <a href="https://www.adobe.com/apps/all/all-platforms/pdp/illustrator?source=apps" target="_blank"><img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-08.png" alt="illustrator" width="180" hight="50"><a href="https://www.adobe.com/apps/all/all-platforms/pdp/photoshop?source=apps" target="_blank"><img src="https://github.com/minianns/minianns/blob/main/images/Git%20hub%20icon-12.png" alt="Phototshop" width="180" hight="50">
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minianns&langs_count=5&title_color=FFFFFF&text_color=FFD55E&icon_color=FFD55E&bg_color=0C457A&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
+
 </br>
 
 # Contact me 🚀: 
 Feel free to contact me anytime, or we can just play games together if you’d like!😉.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minianns&langs_count=5&title_color=FFFFFF&text_color=FFD55E&icon_color=FFD55E&bg_color=0C457A&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">&nbsp;&nbsp;<a href="mailto:minianns48@gmail.com"><img align="top" alt="Gmail" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" /></a>&nbsp;&nbsp;<a href=""><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/minianns48?igsh=MWg0dWhsYmVzdGdmNw%3D%3D&utm_source=qr"><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" /></a>
+<a href="mailto:minianns48@gmail.com"><img align="top" alt="Gmail" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" /></a>&nbsp;&nbsp;<a href=""><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/minianns48?igsh=MWg0dWhsYmVzdGdmNw%3D%3D&utm_source=qr"><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" /></a>
 
 </br>
 </br>
