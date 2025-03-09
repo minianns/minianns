@@ -1,6 +1,6 @@
 <!--招呼語-->
 <div>
-  <h1 align = "center", class = "heading-element">Hi, I'm Ann.👋
+  <h1 align = "center", class = "heading-element">Hi, I'm Ann 👋
   </h1>
 </div>
 
@@ -30,7 +30,7 @@
 </br>
 </br>
 
-# Languages & Tools 💻 :
+# Languages & Tools 💻
 
 <p align="left">
 
@@ -47,7 +47,7 @@
 
 </br>
 
-# Contact me 🚀: 
+# Contact me 🚀
 Feel free to contact me anytime, or we can just play games together if you’d like!😉.
 
 <a href="mailto:minianns48@gmail.com"><img align="top" alt="Gmail" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/gmail.png" /></a>&nbsp;&nbsp;<a href=""><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/linkedin.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/minianns48?igsh=MWg0dWhsYmVzdGdmNw%3D%3D&utm_source=qr"><img align="top" alt="Linkedin" width="40" height="40" src="https://github.com/minianns/minianns/blob/main/images/instagram.png" /></a>
