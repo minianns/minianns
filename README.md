@@ -6,7 +6,7 @@
 
 <!--首圖-->
 <div align="center">
-  <img height="300" width="600" alt="GIF" align="center"
+  <img alt="GIF" align="center"
        src="https://raw.githubusercontent.com/minianns/minianns/refs/heads/main/images/Minions-Excited.webp">
 </div>
 </br>
