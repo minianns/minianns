@@ -15,7 +15,7 @@
 
 <!-- About me-->
 # About me 💬
-### With 5 years of experience in Marketing & currently Data Science Learning from Taiwan.
+### With 3 years of experience in Marketing & currently Data Science Learning from Taiwan.
 <img alt="GIF" align="right" src="https://github.com/minianns/minianns/blob/main/images/Agnes.gif">
 
 ### Habbies :
